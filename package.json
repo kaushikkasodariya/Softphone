@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@livechat/accounts-sdk": "^2.0.9"
+  }
+}
